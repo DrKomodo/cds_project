@@ -2,7 +2,7 @@ graph [
   directed 1
   node [
     id 0
-    label "Lung_Cancer"
+    label "Lung_cancer"
   ]
   node [
     id 1
